@@ -5,7 +5,7 @@ const page = () => {
     <>
     <h1 className="text-2xl font-bold text-gray-800 border-b-2 p-6 border-[#CDAC62] pb-2">Bonus Points  </h1>
     <section className="p-6 bg-gray-100 rounded-lg shadow-md">
-      <p className="mt-4 text-lg font-bold text-gray-700">1.  How would you set up analytic reporting for a real estate website using Google Analytics?</p>
+      <p className="mt-4 text-lg font-bold text-gray-700">1.  What would you improve on our website https://luxuryhomesrealestate.ae  please explain if any</p>
       <ul className="mt-2 space-y-2 text-gray-600 pl-4">
         <li><span className="font-bold text-gray-800">Design & Layout:  </span></li>
         <li><span className="font-semibold text-gray-800">The current WordPress design limits customization and does not fully reflect the company’s identity.  </span></li>
